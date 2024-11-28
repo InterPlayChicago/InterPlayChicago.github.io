@@ -1,3 +1,5 @@
-# interplaydc.github.io
-https://www.bluehost.com/hosting/help/aaaa_record#aaaa
-https://www.whatsmydns.net/#AAAA/www.interplaydc.org
+# InterPlayChicago.github.io  
+git clone https://github.com/InterPlayChicago/InterPlayChicago.github.io  
+cd InterPlayChicago.github.io  
+bundle  
+bundle exec jekyll serve --livereload  

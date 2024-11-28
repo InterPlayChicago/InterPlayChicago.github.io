@@ -32,17 +32,8 @@ people around the world** who speak the shared language of play.
 
 *Come and join us!*
 
-Look for InterPlay DC *events *including day long Open Gatherings, Life
-Practice, Leadership Training, retreats and workshops.
-
-Follow us or like us - InterPlayDC on Facebook
+Follow us or like us - InterPlayChicago on
+[Facebook.com/InterPlayChicago](https://www.facebook.com/InterPlayChicago){:target="_blank"}
 
 To find out more about InterPlay visit the national website
-[InterPlay.org](https://www.interplay.org){:target="_blank"}
-
-Open Gathering, Life Practice and some special events are held across from
-Takoma METRO (free parking at Metro Station on weekends).  In the *Seekers
-Church sanctuary*.  Entrance in back of building.  Knock loudly if door is
-locked.
-
-See announcements for locations of special Workshops and Events
+[InterPlay.org](https://www.InterPlay.org){:target="_blank"}
