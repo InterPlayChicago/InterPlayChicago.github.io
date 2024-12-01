@@ -1,9 +1,9 @@
 ---
 layout: event
-sub_title: "Open Gathering"
-author: Kate and Billy Amoss
-time: 10am - 4pm
-location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
+sub_title: "Body Wisdom Playgroup"
+author: Wai-Chin Matsuoka
+time: 1:00 - 3:15 PM
+location: "Unitarian Church of Hinsdale, 11 W Maple St, Hinsdale IL 60521"
 ---
 
 *Come for the whole day or however long it suits you.*
