@@ -1,6 +1,6 @@
 # /home/mikeperz/.tmuxinator/Chicago.yml
 
-name: DC
+name: Chicago
 root: ~/github.com/InterPlayChicago/InterPlayChicago.github.io
 
 # Optional tmux socket
