@@ -1,6 +1,6 @@
 ---
 layout: event
-sub_title: "On-Site"
+sub_title: "Online"
 author: Wai-Chin Matsuoka
 time: 1:00 - 3:15 PM
 location: "Unitarian Church of Hinsdale, 11 W Maple St, Hinsdale IL 60521"
