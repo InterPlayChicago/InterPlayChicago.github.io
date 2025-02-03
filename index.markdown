@@ -5,3 +5,4 @@
 layout: home
 ---
 ![InterPlay Chicago logo](/assets/images/InterPlayChicago.jpg "InterPlay Chicago logo")
+[![What is InterPlay?](https://img.youtube.com/vi/PmqM2Uqd-p0/default.jpg)](https://youtu.be/PmqM2Uqd-p0){:target="_blank"}
