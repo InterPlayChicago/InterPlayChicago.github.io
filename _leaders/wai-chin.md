@@ -1,11 +1,8 @@
 ---
-layout: page
-title: "Leaders"
-permalink: /leaders/
+short_name: wai-chin
+name: Wai-Chin Matsuoka
+position: Leader
 ---
-
-# Wai-Chin Matsuoka
-
 ![Wai-Chin Matsuoka](/assets/images/Wai-Chin_Matsuoka.jpeg "Wai-Chin Matsuoka"){: style="float: right"}
 
 **Wai-Chin Matsuoka** is Singaporean Chinese, who was transplanted to the U.S.A.
