@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: FREE FUNdraiser Celebrating InterPlay’s 35 Anniversary & Jane Siarny's 70th Birthday
 leader: Agnotti Cowie and Jane Siarny
 time: 2:00 - 3:00pm & 3:30 - 5pm

@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "On-Site"
 leader: Wai-Chin Matsuoka
 time: 1:00 - 3:15 PM

@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Online"
 leader: Wai-Chin Matsuoka
 time: 9:30 - 11:30 AM CT

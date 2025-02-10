@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Online"
 leader: Jane Siarny
 time: 9:30 - 10:45 am CT 
