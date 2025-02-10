@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: "Online"
-author: Jane Siarny
+leader: Jane Siarny
 time: 9:30 - 10:45 am CT 
 #location: "Online"
 ---
