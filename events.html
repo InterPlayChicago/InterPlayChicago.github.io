@@ -10,7 +10,7 @@ title: Events
       {%- assign date_format =
             site.minima.date_format | default: "%b %-d, %Y" -%}
       <span>
-        {{ event.date | date: date_format }},
+        {{ event.date | date: date_format }}<br>
         {{ event.time }} ({{ event.title }})
       </span>
       <h2>

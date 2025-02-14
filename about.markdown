@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[![What is InterPlay?](https://img.youtube.com/vi/PmqM2Uqd-p0/default.jpg)](https://youtu.be/PmqM2Uqd-p0){:target="_blank"}
+
 # What is InterPlay?
 
 InterPlay is based on a series of easy, fun and engaging incremental "forms" or

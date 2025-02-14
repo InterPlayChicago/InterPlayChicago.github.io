@@ -16,7 +16,7 @@ layout: default
         {%- assign date_format =
               site.minima.date_format | default: "%b %-d, %Y" -%}
         <span>
-          {{ event.date | date: date_format }},
+          {{ event.date | date: date_format }}<br>
           {{ event.time }} ({{ event.title | escape }})
         </span>
         <h3>
