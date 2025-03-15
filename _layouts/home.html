@@ -16,12 +16,12 @@ layout: default
         {%- assign date_format =
               site.minima.date_format | default: "%b %-d, %Y" -%}
         <span>
-          {{ event.date | date: date_format }}<br>
+          {{ event.date | date: date_format }},
           {{ event.time }} ({{ event.title | escape }})
         </span>
         <h3>
           <a href="{{ event.url | relative_url }}">
-            {{ event.sub_title | escape }} with {{ event.leader }}
+            {{ event.sub_title | escape }} led by {{ event.leader }}
           </a>
         </h3>
         {{ event.excerpt }}

@@ -9,7 +9,8 @@ title: Leaders
   <li>
     <h2><a href="{{ leader.url }}">{{ leader.name }}</a></h2>
     <h3>{{ leader.position }}</h3>
-    <p>{{ leader.content | markdownify }}</p>
+    {{ leader.excerpt }}
+    {%- if leader.website -%} {{ leader.website }} {%- endif -%}
   </li>
   {% endfor %}
 </ul>
