@@ -27,6 +27,7 @@ email: #dcinterplay@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.InterPlayChicago.org" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: InterPlayChicago
+instagram_username: interplay.chicago
 # twitter_username:
 # github_username:  InterPlayChicago
 
