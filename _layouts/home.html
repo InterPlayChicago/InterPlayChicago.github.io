@@ -23,8 +23,8 @@ layout: default
           <a href="{{ event.url | relative_url }}">
             {{ event.sub_title | escape }}
           </a>
-          led by {{ event.leader }}
         </h3>
+        <h4>led by {{ event.leader }}</h4>
         {{ event.excerpt }}
       </li>
     {%- endfor -%}
@@ -49,10 +49,6 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe
-      <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
-    </p>
   {%- endif -%}
 
 </div>

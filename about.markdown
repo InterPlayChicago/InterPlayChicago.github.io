@@ -6,7 +6,12 @@ permalink: /about/
 
 # What is InterPlay?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmqM2Uqd-p0?si=cZju9EzD4Di-yZ08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="float: right" width="560" height="315"
+src="https://www.youtube.com/embed/PmqM2Uqd-p0?si=cZju9EzD4Di-yZ08"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
 
 InterPlay is based on a series of easy, fun and engaging incremental "forms" or
 ways of interacting with each other that lead participants to movement, telling
