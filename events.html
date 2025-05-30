@@ -15,7 +15,13 @@ title: Events
     <h2>
       <a href="{{ event.url }}">{{ event.sub_title }}</a>
     </h2>
-    <h3>led by {{ event.leader }}</h3>
+    <h3>
+      led by
+      {% for short_name in event.leaders %}
+      {% assign leader = site.leaders | where: 'short_name', short_name | first %}
+      <a href="{{ leader.url }}">{{ leader.name }}</a>
+      {% endfor %}
+    </h3>
     {{ event.excerpt }}
   </li>
   {%- endfor -%}

@@ -11,10 +11,10 @@ for Millennial Leaders” in 2010.
 Since, she joined InterPlay’s national board as well as becoming a certified
 InterPlay leader. Agnotti facilitates workshops worldwide employing a variety of
 pedagogical techniques such as InterPlay, Theatre of the Oppressed, Devising,
-puppetry and clown. Currently they are based in Chicago where they lead
-workshops in schools, organizations and with social movements including as
+puppetry, and clown. Currently, they are based in Chicago where they lead
+workshops in schools, organizations, and with social movements including as
 Co-Artistic Director of Opera-Matic, bringing participatory arts to public
 spaces. Recently, they have taken their work around the globe teaching InterPlay
-workshops in India, Germany, Australia, Bali and Chile.
+workshops in India, Germany, Australia, Bali, and Chile.
 
 ![Agnotti Cowie](/assets/images/acowie.jpg "Agnotti Cowie"){: style="float: right"}
