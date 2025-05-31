@@ -1,6 +1,6 @@
 ---
 sub_title: "On-Site"
-leader: Wai-Chin Matsuoka
+leaders: [wai-chin]
 time: 1:00 - 3:15 PM
 location: "Unitarian Church of Hinsdale, 11 W Maple St, Hinsdale IL 60521"
 ---
