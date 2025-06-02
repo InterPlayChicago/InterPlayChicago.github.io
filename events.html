@@ -12,6 +12,7 @@ title: Events
       {{ event.date | date: date_format }},
       {{ event.time }} ({{ event.title }})
     </span>
+    <p>{{ event.location }}</p>
     <h2>
       <a href="{{ event.url }}">{{ event.sub_title }}</a>
     </h2>

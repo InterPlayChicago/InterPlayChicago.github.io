@@ -1,5 +1,5 @@
 ---
-sub_title: On-Site
+sub_title: Body Wisdom & Speed of Bodies
 leaders: [wai-chin]
 time: 1:00 - 3:15 PM CT
 location: Unitarian Church of Hinsdale, 17 W Maple St, Hinsdale IL 60521
@@ -23,3 +23,6 @@ You can pay me through the following methods:<br>
 (2) $35 through Zelle via <TheRestingPlace@Ymail.com><br>
 (3) $35 through PayPal:
 [paypal.me/WaiChinMatsuoka](https://paypal.me/WaiChinMatsuoka){:target="_blank"}
+
+from [https://mailchi.mp/6954ee0bc7d8/dgx2gf15pk](https://mailchi.mp/6954ee0bc7d8/dgx2gf15pk "ONSITE Body Wisdom Playgroup"){:
+target="_blank"}

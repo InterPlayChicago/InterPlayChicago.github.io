@@ -1,7 +1,7 @@
 ---
 short_name: litha
 name: Litha Rodriguez
-position: Communications Coordinator for InterPlay / InterPlay Leader in Training
+position: InterPlay Leader in Training
 ---
 
 |she/they| Communications Coordinator for InterPlay since 2023, oversees several

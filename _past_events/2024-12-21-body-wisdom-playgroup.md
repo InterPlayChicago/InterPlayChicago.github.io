@@ -1,17 +1,17 @@
 ---
-sub_title: "Online"
-leader: Wai-Chin Matsuoka
-time: 9:30 - 11:30 AM CT
-#location: "Online"
+sub_title: Online
+leaders: [wai-chin]
+time: 1:00 - 3:00 PM CT
+location: Online
 ---
-
-3rd Saturday of the month
-
-**Body Wisdom Playgroup** is a gathering of community to learn and practice
-InterPlay® forms and tools, and discover the deep wisdom from our bodies.
 
 Thirsting for Depth? Hungering for Intimacy? Come and Experience Play & Discover
 Depth, Connection and Intimacy in **Wai-Chin's Body Wisdom Playgroup**.
+
+![Online Body Wisdom Playgroup](/assets/images/Online_Body_Wisdom_Playgroup.jpg "Online Body Wisdom Playgroup"){: style="float: right"}
+
+**Body Wisdom Playgroup** is a gathering of community to learn and practice
+InterPlay® forms and tools, and discover the deep wisdom from our bodies.
 
 <p style="text-align:center;">Payment Methods</p>
 

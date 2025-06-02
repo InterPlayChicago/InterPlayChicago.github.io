@@ -19,6 +19,7 @@ layout: default
           {{ event.date | date: date_format }},
           {{ event.time }} ({{ event.title | escape }})
         </span>
+        <p>{{ event.location }}</p>
         <h3>
           <a href="{{ event.url | relative_url }}">
             {{ event.sub_title | escape }}
