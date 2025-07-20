@@ -22,9 +22,9 @@ To register, email
 
 You can pay me through the following methods:<br>
 (1) Send a check
-of $35 to Wai-Chin Matsuoka at 444 E Roosevelt Rd, Suite 110, Lombard IL 60148-4630<br>
-(2) $35 through Zelle via <TheRestingPlace@Ymail.com><br>
-(3) $35 through PayPal:
+of $25 to Wai-Chin Matsuoka at 444 E Roosevelt Rd, Suite 110, Lombard IL 60148-4630<br>
+(2) $25 through Zelle via <TheRestingPlace@Ymail.com><br>
+(3) $25 through PayPal:
 [paypal.me/WaiChinMatsuoka](https://paypal.me/WaiChinMatsuoka){:target="_blank"}
 
 from [https://mailchi.mp/4f4e7bb35855/body-wisdom-playgroup](https://mailchi.mp/4f4e7bb35855/body-wisdom-playgroup "ONLINE Body Wisdom Playgroup"){:
