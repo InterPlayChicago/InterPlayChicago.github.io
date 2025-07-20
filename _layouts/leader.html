@@ -4,4 +4,15 @@ layout: default
 <h1>{{ page.name }}</h1>
 
 {{ content }}
-{{ page.website }}
+
+{%- if page.instagram -%}
+<a href="https://www.instagram.com/{{ page.instagram }}" target="_blank">
+  @{{ page.instagram }}
+</a>
+{%- endif -%}
+
+<br>
+
+{%- if page.website -%}
+<a href="{{ page.website }}" target="_blank">{{ page.website }}</a>
+{%- endif -%}

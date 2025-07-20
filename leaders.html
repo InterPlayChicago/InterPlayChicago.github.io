@@ -9,7 +9,11 @@ title: Leaders
   <li>
     <h2><a href="{{ leader.url }}">{{ leader.name }}</a></h2>
     {{ leader.excerpt }}
-    {%- if leader.website -%} {{ leader.website }} {%- endif -%}
+    {%- if leader.instagram -%}
+    <a href="https://www.instagram.com/{{ leader.instagram }}" target="_blank">
+      @{{ leader.instagram }}
+    </a>
+    {%- endif -%}
   </li>
   {% endfor %}
 </ul>
