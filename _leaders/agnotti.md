@@ -1,13 +1,14 @@
 ---
 short_name: agnotti
 name: Agnotti Cowie
-#position: Certified InterPlay Leader
 instagram: agnotti
 website: http://Agnotti.com
 ---
 
 Agnotti Cowie (they/she) attended the first ever “Art & Social Change: InterPlay
 for Millennial Leaders” in 2010.
+
+<!--more-->
 
 ![Agnotti Cowie](/assets/images/acowie.jpg "Agnotti Cowie"){: style="float: right"}
 

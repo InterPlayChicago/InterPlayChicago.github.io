@@ -1,10 +1,11 @@
 ---
 short_name: mike
 name: Mike Perz
-position: Certified InterPlay Leader
 ---
 
 Mike used to try to gain love and acceptance by following the rules.
+
+<!--more-->
 
 Then when he went to an InterPlay retreat, he noticed that the other
 participants brought something else to their lives. They were allowing

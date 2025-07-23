@@ -1,11 +1,12 @@
 ---
 short_name: foluke
 name: Foluke Beveridge
-#position: Certified InterPlay Leader
 ---
 
 Foluke Beveridge (she/her) is an educator, facilitator, and embodiment
 practitioner.
+
+<!--more-->
 
 Her practice of embodiment (through dance and mindfulness) coupled with her
 passion for justice-centered education inspire questions about the role of

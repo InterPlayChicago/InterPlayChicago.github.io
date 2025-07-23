@@ -5,7 +5,7 @@ time: 6:30pm - 8:30pm
 location: AnySquared, 2328 N Milwaukee Ave, Chicago IL 60647
 ---
 
-Art and Social Change alumni, Amina, Tron, Camille and Agnotti are collaborating
+Art & Social Change alumni, Amina, Tron, Camille and Agnotti are collaborating
 with
 [AnySquared.org](https://AnySquared.org/ "AnySquared.org"){: target="_blank"}
 to offer a free InterPlay event!

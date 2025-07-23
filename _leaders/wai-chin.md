@@ -1,12 +1,13 @@
 ---
 short_name: wai-chin
 name: Wai-Chin Matsuoka
-position: Certified InterPlay Leader
 ---
 
 **Wai-Chin Matsuoka** is Singaporean Chinese, who was transplanted to the U.S.A.
 39 years ago when she came to do her graduate studies, and met her
 American-Japanese husband.
+
+<!--more-->
 
 She’s a spiritual director who comes alive whenever there’s an opportunity to
 midwife what’s ready to be birthed.
