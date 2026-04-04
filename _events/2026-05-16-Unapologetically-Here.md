@@ -7,7 +7,7 @@ location: Free Street Theater - Storefront, 4625 S Ashland Ave, Chicago, IL 6060
 
 <!--more-->
 
-Unapologetically Here: Playing with Truth, Presence and Permission is an 
+*Unapologetically Here: Playing with Truth, Presence and Permission* is an 
 embodied and creative offering to engage with the beauty and complexity of life 
 in these times. This workshop is a chance to delve more deeply into your inner 
 wisdom as guidance for life. We will play with our ancient ways of connection 
