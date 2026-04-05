@@ -14,6 +14,8 @@ have our expression, nurture our creativity and draw on our innate resilience.
 These bodywise ideas and practices can support you in creating what you hope 
 for inside and out, for yourself and your community.
 
+<!--more-->
+
 Friday, May 15th:  
 &emsp; &emsp; Session 1: 6pm – 8:30pm
 
@@ -38,7 +40,3 @@ attune to its inherent wisdom.  We do this by drawing on and leaning into more
 ease, affirmation of our inner knowing, incrementality in change processes and 
 up, down, sideways deep raucous playfulness as a way to release stress and tap 
 into more of what uplifts us.
-
-<!--more-->
-
-
