@@ -13,6 +13,8 @@ resilience, and collective well-being.
 
 <!--more-->
 
+![Renée](/assets/images/Renee.jpg "Renée"){: style="float: right"}
+
 Rooted in her leadership within national nonprofit arts and cultural 
 organizations, Renée’s work spans creative expression, fundraising and 
 development, and expanding access to the arts for diverse communities. Her 
