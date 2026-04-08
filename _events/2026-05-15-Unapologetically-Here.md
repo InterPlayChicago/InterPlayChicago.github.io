@@ -32,7 +32,10 @@ Sunday, May 17th:
 
 Cost: $15-$40 per session (No one turned away for lack of funds)
 
-![Unapologetically Here](/assets/images/Unapologetically YOU - Carolyn Renee and Agnotti.jpg "Unapologetically Here")
+Register HERE:  
+[www.eventbrite.com/e/unapologetically-here-playing-with-truth-presence-and-permission-tickets-1986904838859](https://www.eventbrite.com/e/unapologetically-here-playing-with-truth-presence-and-permission-tickets-1986904838859 "Unapologetically Here"){:target="_blank"}
+
+![Unapologetically Here](/assets/images/Unapologetically Renee and Agnotti.jpg "Unapologetically Here")
 
 For those still new to InterPlay, it is a practice and system that has been 
 around for over 35 years, that enables an increased capacity for our bodies to 

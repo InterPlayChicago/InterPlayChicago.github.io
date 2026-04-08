@@ -1,19 +1,21 @@
 ---
 short_name: renee
-name: Carolyn Renée Morris
+name: Carolyn Renée Morris (“Renée”)
 instagram: carolynreneeheals
 website: https://CarolynRenee.com
 ---
 
-Carolyn Renée Morris, also known as “Carolyn Renée,” is a Naturopathic Wellness 
-Practitioner and former faculty member at A Life Of Peace Wellness Education 
-Institute, an accredited school by the American Association of Drugless 
-Practitioners.
+**Carolyn Renée Morris (“Renée”)** is a Naturopathic Wellness Practitioner, 
+Certified InterPlay Leader, and Teaching Artist whose work lives at the 
+intersection of healing and the creative arts. She brings people together 
+through art-infused, integrative wellness practices that foster connection, 
+resilience, and collective well-being.
 
 <!--more-->
 
-As a Certified InterPlay Leader, Yoga Instructor, and Teaching Artist, she 
-part-time teaches yoga at the YMCA and co-directs an InterPlay performance 
-group. Through her work, she aims to unite communities at the intersection of 
-the healing and creative arts, finding fulfillment in collaborating globally on 
-art-infused projects that incorporate healing modalities.
+Rooted in her leadership within national nonprofit arts and cultural 
+organizations, Renée’s work spans creative expression, fundraising and 
+development, and expanding access to the arts for diverse communities. Her 
+approach weaves together movement, story, voice, and energy-based 
+practices—creating spaces where individuals and communities can reconnect with 
+their innate wisdom and each other.
