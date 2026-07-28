@@ -1,0 +1,33 @@
+---
+layout: default
+title: Past Events
+---
+<h1>Past Events</h1>
+
+<ul>
+  {%- for event in site.past_events reversed -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span>
+      {{ event.date | date: date_format }},
+      {{ event.time }} ({{ event.title }})
+    </span>
+    <p>{{ event.location }}</p>
+    <h2>
+      <a href="{{ event.url }}">{{ event.sub_title }}</a>
+    </h2>
+    <h3>
+      {%- if event.leaders -%}
+      led by
+      {% for short_name in event.leaders %}
+      {% assign leader
+      = site.leaders | where: 'short_name', short_name | first %}
+      {% unless forloop.first %}, {% endunless %}
+      <a href="{{ leader.url }}">{{ leader.name }}</a>
+      {% endfor %}
+      {%- endif -%}
+    </h3>
+    {{ event.excerpt }}
+  </li>
+  {%- endfor -%}
+</ul>
