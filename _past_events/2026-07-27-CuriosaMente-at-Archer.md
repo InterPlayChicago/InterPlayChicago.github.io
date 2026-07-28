@@ -4,8 +4,6 @@ time: 1:30 PM - 2:15 PM & 5 PM - 5:45 PM
 location: Archer (William Beatty) Park, 4901 S Kilbourn Ave, Chicago, IL 60632
 ---
 
-![The Show of Questions](/assets/images/CuriosaMente/at_Archer.jpg "The Show of Questions")
-
 ¿Cuántas preguntas tiene un gato? How many questions does a cat have? FIND OUT 
 at EL SHOW DE LAS PREGUNTAS!
 
@@ -17,6 +15,8 @@ Garcia!
 ALL AGES! FREE ADMISSION!
 
 <!--more-->
+
+![The Show of Questions](/assets/images/CuriosaMente/at_Archer.jpg "The Show of Questions")
 
 * [@curiosamente.chicago/p/DYNZIDtMxwd](https://www.instagram.com/curiosamente.chicago/p/DYNZIDtMxwd){:target="_blank"}
 * 1:30 PM - 2:15 PM: [www.ChicagoParkDistrict.com/events/curiosamente-archer](https://www.chicagoparkdistrict.com/events/curiosamente-archer "1:30 PM - 2:15 PM"){:target="_blank"}

@@ -4,8 +4,6 @@ time: 11:30am - 12:15pm & 3pm - 3:45pm
 location: Avondale Park, 3516 W School St, Chicago, IL 60618
 ---
 
-![The Show of Questions](/assets/images/CuriosaMente/at_Avondale.jpg "The Show of Questions")
-
 ¿Cuántas preguntas tiene un gato? How many questions does a cat have? FIND OUT 
 at EL SHOW DE LAS PREGUNTAS!
 
@@ -17,6 +15,8 @@ Garcia!
 ALL AGES! FREE ADMISSION!
 
 <!--more-->
+
+![The Show of Questions](/assets/images/CuriosaMente/at_Avondale.jpg "The Show of Questions")
 
 * [@curiosamente.chicago/p/DYNZIDtMxwd](https://www.instagram.com/curiosamente.chicago/p/DYNZIDtMxwd){:target="_blank"}
 * 11:30am - 12:15pm: [www.ChicagoParkDistrict.com/events/curiosamente-avondale](https://www.chicagoparkdistrict.com/events/curiosamente-avondale "11:30am - 12:15pm"){:target="_blank"}

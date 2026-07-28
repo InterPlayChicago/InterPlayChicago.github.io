@@ -1,5 +1,5 @@
 ---
-sub_title: InterPlay Performance Community Night
+sub_title: InterPlay Community Performance Night
 leaders: [foluke, agnotti, vibhuti, sophie]
 time: 7pm - 9pm
 location: Free Street Theater, 1419 W Blackhawk St, Chicago IL 60642
