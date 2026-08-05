@@ -13,8 +13,6 @@ For more information about InterPlay's Art & Social Change program, click on →
 [www.InterPlay.org/index.cfm/go/events:event/happening_id/3383](https://InterPlay.org/index.cfm/go/events:event/happening_id/3383 "Art & Social Change"){:
 target="_blank"}
 
-![Art & Social Change](/assets/images/2026-08/InterPlay ART _ SOCIAL CHANGE.png "Art & Social Change")
-
 <!--more-->
 
-
+![Art & Social Change](/assets/images/2026-08/InterPlay%20ART%20_%20SOCIAL%20CHANGE.png "Art & Social Change")

@@ -1,5 +1,5 @@
 ---
-sub_title: Graduation
+sub_title: Graduation Celebration
 leaders: [foluke, agnotti, vibhuti, sophie]
 time: 7pm - 9pm
 location: Free Street Theater, 1419 W Blackhawk St, Chicago IL 60642
